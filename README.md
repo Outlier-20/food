@@ -32,6 +32,10 @@ Complete documentation is produced per stage following IEEE academic publication
 *Figure 3. Dual-axis plot contrasting annual cyber incidents targeting the food sector (light blue bars) against global fruit and vegetable (F&V) loss percentages (red line). Shows an exponential rise in cyber incidents from 8 in 2016 to 265 in 2025 alongside persistent systemic food loss elevated between 23.2% and 25.8%.*
 
 
+#### Figure 4: Correlation Heatmap
+![Figure 4](photos/Fig4_Correlation_Heatmap.png)
+*Figure 4. Lower-triangular correlation matrix analyzing system variables. Highlights strong positive associations between cyber incidents, ransomware attacks, supply disruptions, and financial impact ($r \ge 0.97$), alongside moderate-to-strong correlations with overall food loss percentage ($r = 0.66\text{--}0.74$) and negative correlations with developed Logistics Performance Index (LPI) ratings.*
+
 ---
 
 ### 3. Stage 7: Scientific Rigor & Evaluation
