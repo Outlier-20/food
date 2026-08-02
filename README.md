@@ -36,6 +36,11 @@ Complete documentation is produced per stage following IEEE academic publication
 ![Figure 4](photos/Fig4_Correlation_Heatmap.png)
 *Figure 4. Lower-triangular correlation matrix analyzing system variables. Highlights strong positive associations between cyber incidents, ransomware attacks, supply disruptions, and financial impact ($r \ge 0.97$), alongside moderate-to-strong correlations with overall food loss percentage ($r = 0.66\text{--}0.74$) and negative correlations with developed Logistics Performance Index (LPI) ratings.*
 
+
+#### Figure 5: Residual Distribution & Q-Q Plot
+![Figure 5](photos/Fig5_Residual_Distribution.png)
+*Figure 5. Diagnostic plots for model residuals. The left panel shows the histogram of residuals overlaid with a Gaussian normal fit (red curve) bounded by outlier fences (dashed orange lines). The right panel shows the Quantile-Quantile (Q-Q) plot against theoretical quantiles. A Shapiro-Wilk test result of $p = 0.300$ confirms that the normality assumption holds, validating the underlying regression framework.*
+
 ---
 
 ### 3. Stage 7: Scientific Rigor & Evaluation
