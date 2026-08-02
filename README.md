@@ -27,39 +27,6 @@ Complete documentation is produced per stage following IEEE academic publication
 
 ### 2. Stage 6: Visualization Layer
 
-#### Figure 1: Anomaly Score Timeline (2016–2025)
-![Figure 1](./photos/Figure1_Anomaly_Score_Timeline.png)
-*Figure 1. Anomaly scores over time. 2020 flagged as **HIGH ANOMALY** (COVID + Americold/Harvest Sherwood attacks)[cite: 1]. 2023 and 2025 flagged **SUSPICIOUS**[cite: 1].*
-
----
-
-#### Figure 2: Actual vs Expected Food Loss
-![Figure 2](./photos/Figure2_Actual_vs_Expected_Food_Loss.png)
-*Figure 2. Model fit ($R^2 = 0.911$)[cite: 1]. Points near the diagonal indicate good prediction; deviations indicate potential anomalies[cite: 1].*
-
----
-
-#### Figure 3: Cyber Incidents vs Food Loss
-![Figure 3](./photos/Figure3_Cyber_Incidents_vs_Food_Loss.png)
-*Figure 3. Dual-axis plot showing exponential growth in cyber incidents (8 to 265) alongside food loss percentage trends[cite: 1].*
-
----
-
-#### Figure 4: Correlation Heatmap
-![Figure 4](./photos/Figure4_Correlation_Heatmap.png)
-*Figure 4. Pairwise correlation matrix revealing strong positive correlations between cyber incidents, ransomware, and financial impact[cite: 1].*
-
----
-
-#### Figure 5: Residual Distribution
-![Figure 5](./photos/Figure5_Residual_Distribution.png)
-*Figure 5. Residual distribution with normal fit (left) and Q-Q plot (right)[cite: 1]. Shapiro-Wilk $p = 0.300$ confirms normality assumption[cite: 1].*
-
----
-
-#### Figure 6: Financial Impact Timeline
-![Figure 6](./photos/Figure6_Financial_Impact_Timeline.png)
-*Figure 6. Estimated financial impact growing from $50M (2016) to $2.5B (2025), color-coded by anomaly classification[cite: 1].*
 
 ---
 
