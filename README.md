@@ -148,6 +148,40 @@ Complete documentation is produced per stage following IEEE academic publication
 ![Figure 6](./photos/Figure6_Financial_Impact_Timeline.png)
 *Figure 6. Estimated financial impact growing from $50M (2016) to $2.5B (2025), color-coded by anomaly classification[cite: 1].*
 
+
+#### plot_01_failure_types.png
+![plot_01_failure_types](photos/plot_01_failure_types.png)
+*Frequency breakdown of identified cold chain failure modes. Highlights temperature excursions and equipment malfunctions as primary drivers, alongside procedural and delay-related incidents.*
+
+---
+
+#### plot_02_product_types.png
+![plot_02_product_types](photos/plot_02_product_types.png)
+*Distribution across verified incidents showing affected product categories. Seafood/Fish accounts for the largest share, followed by Mixed Perishables and Fruits & Vegetables.*
+
+---
+
+#### plot_03_economic_losses.png
+![plot_03_economic_losses](photos/plot_03_economic_losses.png)
+*Documented monetary loss per incident in USD millions. High-impact single events, such as US-2023-01, record severe economic losses exceeding $3.2M.*
+
+---
+
+#### plot_04_supply_chain_stages.png
+![plot_04_supply_chain_stages](photos/plot_04_supply_chain_stages.png)
+*Distribution of failure occurrences across supply chain stages. Demonstrates peak vulnerability during Post-Harvest handling (10 incidents) and Maritime Transport (9 incidents).*
+
+---
+
+#### plot_05_reliability.png
+![plot_05_reliability](photos/plot_05_reliability.png)
+*Confidence scoring breakdown for analyzed incident data records. Over 60% of cases are rated with High data reliability ($N = 21$), with remaining records classified as Medium reliability ($N = 12$).*
+
+---
+
+#### plot_06_temporal.png
+![plot_06_temporal](photos/plot_06_temporal.png)
+*Timeline distribution showing incident frequencies over annual quarters, identifying peak operational disruption windows across the study timeframe.*
 ---
 
 ### 3. Stage 7: Scientific Rigor & Evaluation
