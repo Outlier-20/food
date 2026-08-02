@@ -1,0 +1,56 @@
+Year,Country,Region,Commodity,Commodity_Group,Supply_Chain_Stage,Loss_Percentage,Production_Tonnes_000,Loss_Tonnes_000,Source,Avg_Temp_C,Temp_Anomaly_C,Avg_Humidity_Pct,Annual_Precip_mm,Extreme_Heat_Days,LPI_Overall,LPI_Infrastructure,LPI_Timeliness,Cyber_Count,Supply_Disruptions
+2016,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,18.2,92826,16894,FAO SDG 12.3.1,25.2,0.71,68.5,1083.0,42.0,3.42,3.34,3.74,1.0,1.0
+2016,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,12.4,178172,22093,FAO SDG 12.3.1,25.2,0.71,68.5,1083.0,42.0,3.42,3.34,3.74,1.0,1.0
+2016,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.6,283205,24356,FAO SDG 12.3.1,11.4,0.82,62.1,645.0,28.0,3.66,3.75,3.9,1.0,1.0
+2016,China,East Asia,Vegetables,Fruits and Vegetables,Storage,10.1,589153,59505,FAO SDG 12.3.1,11.4,0.82,62.1,645.0,28.0,3.66,3.75,3.9,1.0,1.0
+2016,Nigeria,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,30.5,9400,2867,FAO SDG 12.3.1,27.1,0.65,72.8,1150.0,58.0,2.63,2.4,3.04,1.0,1.0
+2016,Brazil,Latin America,Fruits,Fruits and Vegetables,Transport,22.1,40190,8882,FAO SDG 12.3.1,25.0,0.78,76.2,1761.0,45.0,3.09,3.11,3.39,1.0,1.0
+2016,USA,North America,Fruits,Fruits and Vegetables,Retail,9.8,26896,2636,FAO SDG 12.3.1,12.8,1.22,65.3,760.0,35.0,3.99,4.15,4.25,1.0,1.0
+2016,USA,North America,Vegetables,Fruits and Vegetables,Retail,8.2,36277,2975,FAO SDG 12.3.1,12.8,1.22,65.3,760.0,35.0,3.99,4.15,4.25,1.0,1.0
+2016,Germany,Europe,Fruits,Fruits and Vegetables,Processing,5.2,5250,273,FAO SDG 12.3.1,9.6,0.85,73.1,700.0,12.0,4.12,4.44,4.45,1.0,1.0
+2016,Germany,Europe,Vegetables,Fruits and Vegetables,Storage,4.8,4120,198,FAO SDG 12.3.1,9.6,0.85,73.1,700.0,12.0,4.12,4.44,4.45,1.0,1.0
+2017,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,17.8,97358,17330,FAO SDG 12.3.1,25.0,0.58,67.8,1070.0,38.0,3.42,3.34,3.74,2.0,1.0
+2017,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,12.1,187470,22684,FAO SDG 12.3.1,25.0,0.58,67.8,1070.0,38.0,3.42,3.34,3.74,2.0,1.0
+2017,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.3,296434,24604,FAO SDG 12.3.1,11.6,0.95,61.8,650.0,30.0,3.66,3.75,3.9,2.0,1.0
+2017,Nigeria,Sub-Saharan Africa,Vegetables,Fruits and Vegetables,Post-harvest,28.7,12500,3588,FAO SDG 12.3.1,27.0,0.58,71.9,1120.0,55.0,2.63,2.4,3.04,2.0,1.0
+2017,Brazil,Latin America,Fruits,Fruits and Vegetables,Transport,21.5,41100,8837,FAO SDG 12.3.1,25.2,0.85,75.8,1720.0,47.0,3.09,3.11,3.39,2.0,1.0
+2017,USA,North America,Fruits,Fruits and Vegetables,Retail,9.5,27110,2576,FAO SDG 12.3.1,12.9,1.31,64.8,775.0,38.0,3.99,4.15,4.25,2.0,1.0
+2017,Kenya,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,32.8,3900,1279,FAO SDG 12.3.1,,,,,,3.33,3.21,3.54,2.0,1.0
+2018,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,17.5,99070,17337,FAO SDG 12.3.1,25.1,0.62,68.1,1090.0,40.0,3.42,3.34,3.74,0.0,0.0
+2018,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,11.8,189225,22329,FAO SDG 12.3.1,25.1,0.62,68.1,1090.0,40.0,3.42,3.34,3.74,0.0,0.0
+2018,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.1,305872,24776,FAO SDG 12.3.1,11.5,0.88,62.5,660.0,32.0,3.66,3.75,3.9,0.0,0.0
+2018,China,East Asia,Vegetables,Fruits and Vegetables,Storage,9.8,601445,58942,FAO SDG 12.3.1,11.5,0.88,62.5,660.0,32.0,3.66,3.75,3.9,0.0,0.0
+2018,Nigeria,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,29.8,9800,2920,FAO SDG 12.3.1,27.2,0.71,72.2,1140.0,56.0,2.63,2.4,3.04,0.0,0.0
+2018,USA,North America,Fruits,Fruits and Vegetables,Retail,9.2,26500,2438,FAO SDG 12.3.1,12.7,1.15,65.0,780.0,33.0,3.99,4.15,4.25,0.0,0.0
+2018,Spain,Europe,Fruits,Fruits and Vegetables,Processing,6.1,18200,1110,FAO SDG 12.3.1,15.1,0.72,60.5,550.0,25.0,3.73,3.72,4.0,0.0,0.0
+2018,Oman,Middle East,Fruits,Fruits and Vegetables,Post-harvest,15.3,363,56,FAO SDG 12.3.1,29.0,0.55,45.5,110.0,94.0,3.23,3.44,3.38,0.0,0.0
+2019,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,17.2,101530,17463,FAO SDG 12.3.1,25.3,0.75,68.8,1095.0,44.0,3.42,3.34,3.74,1.0,1.0
+2019,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,11.5,191778,22055,FAO SDG 12.3.1,25.3,0.75,68.8,1095.0,44.0,3.42,3.34,3.74,1.0,1.0
+2019,China,East Asia,Fruits,Fruits and Vegetables,Processing,7.9,310446,24525,FAO SDG 12.3.1,11.7,1.02,62.0,655.0,34.0,3.66,3.75,3.9,1.0,1.0
+2019,Nigeria,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,29.2,10200,2978,FAO SDG 12.3.1,27.3,0.82,72.5,1130.0,57.0,2.63,2.4,3.04,1.0,1.0
+2019,Brazil,Latin America,Fruits,Fruits and Vegetables,Transport,20.8,41800,8694,FAO SDG 12.3.1,25.3,0.92,76.0,1740.0,48.0,3.09,3.11,3.39,1.0,1.0
+2019,USA,North America,Vegetables,Fruits and Vegetables,Retail,7.9,36800,2907,FAO SDG 12.3.1,12.6,1.08,65.5,790.0,31.0,3.99,4.15,4.25,1.0,1.0
+2020,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,19.5,102480,19984,FAO SDG 12.3.1,25.4,0.85,69.2,1105.0,46.0,3.42,3.34,3.74,2.0,2.0
+2020,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,14.2,194259,27585,FAO SDG 12.3.1,25.4,0.85,69.2,1105.0,46.0,3.42,3.34,3.74,2.0,2.0
+2020,China,East Asia,Fruits,Fruits and Vegetables,Processing,9.2,316460,29114,FAO SDG 12.3.1,11.8,1.12,62.8,670.0,36.0,3.66,3.75,3.9,2.0,2.0
+2020,USA,North America,Fruits,Fruits and Vegetables,Retail,11.3,26100,2949,FAO SDG 12.3.1,13.0,1.42,64.5,755.0,40.0,3.99,4.15,4.25,2.0,2.0
+2020,USA,North America,Vegetables,Fruits and Vegetables,Retail,9.8,36200,3548,FAO SDG 12.3.1,13.0,1.42,64.5,755.0,40.0,3.99,4.15,4.25,2.0,2.0
+2020,Nigeria,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,31.5,10500,3308,FAO SDG 12.3.1,27.4,0.88,73.0,1160.0,59.0,2.63,2.4,3.04,2.0,2.0
+2020,Oman,Middle East,Fruits,Fruits and Vegetables,Post-harvest,16.8,380,64,FAO SDG 12.3.1,29.3,0.72,46.1,85.0,98.0,3.23,3.44,3.38,2.0,2.0
+2021,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,18.8,104320,19612,FAO SDG 12.3.1,25.2,0.68,68.5,1088.0,43.0,3.42,3.34,3.74,6.0,5.0
+2021,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,13.5,197890,26715,FAO SDG 12.3.1,25.2,0.68,68.5,1088.0,43.0,3.42,3.34,3.74,6.0,5.0
+2021,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.8,320450,28200,FAO SDG 12.3.1,11.9,1.18,62.2,665.0,35.0,3.66,3.75,3.9,6.0,5.0
+2021,USA,North America,Fruits,Fruits and Vegetables,Retail,10.8,26800,2894,FAO SDG 12.3.1,13.1,1.48,64.2,740.0,42.0,3.99,4.15,4.25,6.0,5.0
+2021,Brazil,Latin America,Fruits,Fruits and Vegetables,Transport,22.8,42300,9645,FAO SDG 12.3.1,25.1,0.88,75.5,1700.0,46.0,3.09,3.11,3.39,6.0,5.0
+2021,Nigeria,Sub-Saharan Africa,Vegetables,Fruits and Vegetables,Post-harvest,30.2,13200,3986,FAO SDG 12.3.1,,,,,,2.63,2.4,3.04,6.0,5.0
+2022,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,18.1,107200,19403,FAO SDG 12.3.1,25.5,0.92,69.5,1110.0,48.0,3.42,3.34,3.74,2.0,2.0
+2022,India,South Asia,Vegetables,Fruits and Vegetables,Post-harvest,13.0,200100,26013,FAO SDG 12.3.1,25.5,0.92,69.5,1110.0,48.0,3.42,3.34,3.74,2.0,2.0
+2022,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.5,325200,27642,FAO SDG 12.3.1,12.0,1.25,61.5,640.0,40.0,3.66,3.75,3.9,2.0,2.0
+2022,USA,North America,Fruits,Fruits and Vegetables,Retail,10.2,27100,2764,FAO SDG 12.3.1,13.2,1.55,63.8,720.0,44.0,3.99,4.15,4.25,2.0,2.0
+2022,USA,North America,Vegetables,Fruits and Vegetables,Retail,9.1,37200,3385,FAO SDG 12.3.1,13.2,1.55,63.8,720.0,44.0,3.99,4.15,4.25,2.0,2.0
+2022,Oman,Middle East,Fruits,Fruits and Vegetables,Post-harvest,14.9,395,59,FAO SDG 12.3.1,29.5,0.85,46.8,78.0,101.0,3.23,3.44,3.38,2.0,2.0
+2023,India,South Asia,Fruits,Fruits and Vegetables,Post-harvest,17.6,109800,19324,FAO SDG 12.3.1,25.7,1.05,70.0,1125.0,51.0,3.42,3.34,3.74,3.0,2.0
+2023,China,East Asia,Fruits,Fruits and Vegetables,Processing,8.2,330100,27068,FAO SDG 12.3.1,12.1,1.32,62.0,650.0,42.0,3.66,3.75,3.9,3.0,2.0
+2023,USA,North America,Fruits,Fruits and Vegetables,Retail,9.8,27500,2695,FAO SDG 12.3.1,13.4,1.72,63.5,710.0,46.0,3.99,4.15,4.25,3.0,2.0
+2023,Nigeria,Sub-Saharan Africa,Fruits,Fruits and Vegetables,Post-harvest,28.5,11200,3192,FAO SDG 12.3.1,27.6,1.02,74.0,1180.0,63.0,2.63,2.4,3.04,3.0,2.0
+2023,Brazil,Latin America,Fruits,Fruits and Vegetables,Transport,21.2,43100,9137,FAO SDG 12.3.1,25.5,1.05,76.5,1780.0,52.0,3.09,3.11,3.39,3.0,2.0
