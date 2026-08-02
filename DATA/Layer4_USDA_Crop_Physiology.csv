@@ -1,0 +1,21 @@
+FDC_ID,Commodity,Category,Water_Content_Pct,Optimal_Storage_Temp_C,Max_Shelf_Life_Days,Respiration_Rate,Ethylene_Sensitivity,Vulnerability_Score,Source
+171686,Apple,Fruit,85.6,0.0,120,Low,High,0.35,USDA FDC
+169092,Banana,Fruit,74.9,13.0,14,High,High,0.82,USDA FDC
+170393,Mango,Fruit,83.5,10.0,21,Moderate,High,0.72,USDA FDC
+169228,Tomato,Vegetable,94.5,10.0,14,Moderate,High,0.75,USDA FDC
+170050,Lettuce,Vegetable,94.8,0.0,14,Moderate,Low,0.68,USDA FDC
+170406,Strawberry,Fruit,90.9,0.0,7,High,Low,0.88,USDA FDC
+169145,Grape,Fruit,80.5,0.0,56,Low,Low,0.42,USDA FDC
+169986,Avocado,Fruit,73.2,5.0,21,High,High,0.78,USDA FDC
+170424,Orange,Fruit,86.7,3.0,56,Low,Low,0.38,USDA FDC
+170457,Potato,Vegetable,79.3,4.0,180,Very Low,Low,0.22,USDA FDC
+169967,Onion,Vegetable,89.1,0.0,240,Very Low,Low,0.18,USDA FDC
+169244,Carrot,Vegetable,88.3,0.0,180,Low,Moderate,0.28,USDA FDC
+170419,Spinach,Vegetable,91.4,0.0,10,Very High,Moderate,0.92,USDA FDC
+170416,Pepper_Bell,Vegetable,92.2,7.0,21,Moderate,Low,0.55,USDA FDC
+170397,Papaya,Fruit,88.1,10.0,14,High,High,0.85,USDA FDC
+169910,Cucumber,Vegetable,95.2,10.0,14,Moderate,High,0.65,USDA FDC
+168409,Broccoli,Vegetable,89.3,0.0,14,Very High,Moderate,0.9,USDA FDC
+169093,Pineapple,Fruit,86.0,10.0,21,Moderate,Low,0.58,USDA FDC
+167752,Watermelon,Fruit,91.4,10.0,21,Low,High,0.52,USDA FDC
+171710,Date,Fruit,21.3,0.0,365,Very Low,Low,0.1,USDA FDC

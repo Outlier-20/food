@@ -1,0 +1,27 @@
+Incident_ID,Date,Year,Target_Company,Target_Sector,Country,Attack_Type,Ransomware_Group,Impact_Description,Ransom_Demanded_USD,Ransom_Paid_USD,Duration_Days,Supply_Chain_Disrupted,Data_Stolen_GB,Source_URL
+CYBER-001,2016-06-15,2016,Unnamed US Farm,Agriculture,USA,Ransomware,Unknown,"Farm operations disrupted, planting data encrypted",25000,Unknown,3,Yes,Unknown,FBI PIN 2021
+CYBER-002,2017-03-22,2017,Unnamed Food Processor,Food Processing,USA,Phishing/BEC,N/A,Financial fraud via email compromise,500000,500000,1,No,0,FBI IC3 Report 2017
+CYBER-003,2017-09-10,2017,Mondelez International,Food Manufacturing,Global,NotPetya,State-sponsored,"Global operations disrupted, $188M total damages",0,0,14,Yes,Unknown,https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+CYBER-004,2019-11-21,2019,Unnamed Grain Cooperative,Agriculture,USA,Ransomware,Unknown,Grain storage and logistics systems encrypted,2000000,Unknown,7,Yes,Unknown,FBI PIN 2021
+CYBER-005,2020-05-03,2020,Harvest Sherwood Food,Food Distribution,USA,Ransomware,REvil/Sodinokibi,"2300 files stolen, business data compromised",7500000,Unknown,5,Yes,2.3,https://www.foodandag-isac.org/
+CYBER-006,2020-11-16,2020,Americold Logistics,Cold Chain Logistics,USA,Ransomware,Ragnar Locker,"Phone, email, inventory systems shut down",15000000,Unknown,10,Yes,Unknown,https://www.bleepingcomputer.com/news/security/americold-operations-downed/
+CYBER-007,2021-02-23,2021,Kroger,Food Retail,USA,Data Breach,CL0P,"HR, pharmacy, clinic customer data exposed via Accellion",0,0,30,No,Unknown,https://www.kroger.com/i/accellion-incident
+CYBER-008,2021-03-01,2021,Molson Coors,Beverage,USA,Ransomware,Unknown,Brewery operations and shipments disrupted,0,Unknown,7,Yes,Unknown,SEC Filing 8-K
+CYBER-009,2021-05-30,2021,JBS Foods,Meat Processing,USA/Global,Ransomware,REvil/Sodinokibi,"All US beef plants shut down, 25% meat price increase",22500000,11000000,5,Yes,Unknown,https://www.fbi.gov/news/press-releases/fbi-statement-on-jbs
+CYBER-010,2021-07-12,2021,Unnamed US Bakery,Food Manufacturing,USA,Ransomware,Unknown,Production halted for multiple days,0,Unknown,4,Yes,Unknown,FBI PIN 2021-0929
+CYBER-011,2021-09-20,2021,NEW Cooperative,Agriculture,USA,Ransomware,BlackMatter,"Grain storage, feed scheduling systems down",5900000,Unknown,7,Yes,Unknown,https://therecord.media/new-cooperative-ransomware-attack
+CYBER-012,2021-10-01,2021,Crystal Valley Cooperative,Agriculture,USA,Ransomware,Unknown,IT systems knocked offline during harvest season,0,Unknown,5,Yes,Unknown,https://www.foodandag-isac.org/
+CYBER-013,2022-02-15,2022,KP Snacks,Food Manufacturing,UK,Ransomware,Conti,Production and distribution halted,0,Unknown,14,Yes,Unknown,https://www.bbc.com/news/technology-60310853
+CYBER-014,2022-04-28,2022,AGCO Corporation,Agriculture Equipment,USA/Global,Ransomware,Unknown,Manufacturing operations disrupted globally,0,Unknown,10,Yes,Unknown,SEC Filing 8-K
+CYBER-015,2023-02-10,2023,Dole Food Company,Fresh Produce,USA/Global,Ransomware,Unknown,"North America production shut down, $10.5M cost",0,0,14,Yes,Unknown,https://www.cnn.com/2023/02/22/business/dole-cyberattack/
+CYBER-016,2023-04-26,2023,Americold Logistics,Cold Chain Logistics,USA,Ransomware,Unknown,"Second attack, inbound deliveries cancelled 1 week",0,Unknown,7,Yes,Unknown,SEC Filing 10-Q
+CYBER-017,2023-06-05,2023,Sysco,Food Distribution,USA,Data Breach,Unknown,Customer and employee data compromised,0,0,60,No,15,https://www.securityweek.com/sysco-data-breach
+CYBER-018,2024-03-15,2024,Duvel Moortgat Brewery,Beverage,Belgium/USA,Ransomware,Stormous,"Production halted all sites, 88GB data stolen",0,Unknown,10,Yes,88,https://therecord.media/duvel-brewery-ransomware
+CYBER-019,2024-08-12,2024,Spanish Meat Plant,Meat Processing,Spain,Ransomware,RansomHub,SCADA system compromised,0,Unknown,5,Yes,Unknown,https://www.foodandag-isac.org/
+CYBER-020,2024-11-08,2024,Ahold Delhaize,Food Retail,Netherlands/Global,Ransomware,Unknown,Supply chain and operations disrupted,0,Unknown,14,Yes,Unknown,https://www.bleepingcomputer.com/news/security/
+CYBER-021,2024-11-15,2024,Stop & Shop,Food Retail,USA,Ransomware,Unknown,Supply chain and delivery operations affected,0,Unknown,7,Yes,Unknown,News reports
+CYBER-022,2024-11-20,2024,Blue Yonder,Supply Chain Tech,USA/Global,Ransomware,Termite,"Disrupted Starbucks, Sainsburys, Morrisons operations",0,Unknown,21,Yes,Unknown,https://www.blueyonder.com/
+CYBER-023,2024-11-28,2024,Krispy Kreme,Food Production,USA,Ransomware,Play,"IT systems disrupted, online ordering down",0,Unknown,10,Yes,Unknown,SEC Filing 8-K
+CYBER-024,2025-04-22,2025,Marks & Spencer,Food Retail,UK,Ransomware,DragonForce,Online ordering and supply chain disrupted,0,Unknown,14,Yes,Unknown,https://www.bbc.com/news
+CYBER-025,2025-05-01,2025,Co-op Group,Food Retail,UK,Ransomware,DragonForce,Back-office and logistics systems affected,0,Unknown,7,Yes,Unknown,https://www.bbc.com/news
+CYBER-026,2025-05-15,2025,Coca-Cola,Beverage,USA/Global,Ransomware,Everest,Data exfiltration claimed,0,Unknown,Unknown,Unknown,Unknown,News reports

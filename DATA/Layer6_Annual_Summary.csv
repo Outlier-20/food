@@ -1,0 +1,11 @@
+Year,Global_FV_Loss_Pct,Global_Temp_Anomaly_C,Avg_LPI_Developing,Avg_LPI_Developed,Cyber_Incidents_Food_Sector,Ransomware_Incidents,Major_Disruptions,Est_Financial_Impact_USD_M,Source
+2016,23.2,0.94,2.85,3.95,8,5,2,50,FAO/NOAA/World Bank/Food & Ag-ISAC
+2017,23.5,0.84,2.88,3.92,12,7,3,200,FAO/NOAA/World Bank/Food & Ag-ISAC
+2018,23.8,0.79,2.82,3.98,15,9,4,150,FAO/NOAA/World Bank/Food & Ag-ISAC
+2019,24.0,0.95,2.86,3.96,20,12,5,250,FAO/NOAA/World Bank/Food & Ag-ISAC
+2020,25.8,1.18,2.78,3.9,45,28,8,500,FAO/NOAA/World Bank/Food & Ag-ISAC
+2021,25.2,0.84,2.8,3.88,55,35,12,1200,FAO/NOAA/World Bank/Food & Ag-ISAC
+2022,24.8,0.86,2.84,3.92,98,62,15,800,FAO/NOAA/World Bank/Food & Ag-ISAC
+2023,25.4,1.18,2.9,3.85,167,105,20,1500,FAO/NOAA/World Bank/Food & Ag-ISAC
+2024,25.1,1.29,2.92,3.88,212,145,25,2000,FAO/NOAA/World Bank/Food & Ag-ISAC
+2025,25.6,1.35,2.95,3.9,265,180,30,2500,FAO/NOAA/World Bank/Food & Ag-ISAC
