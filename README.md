@@ -127,9 +127,6 @@ All code operates on 6 CSV data layers provided[cite: 1]. No external API calls,
 6. [Zenodo Food Loss Dataset](https://zenodo.org/records/15357549)[cite: 1]
 7. [ScienceDirect Cyber Review](https://www.sciencedirect.com/science/article/pii/S2666154325006167)[cite: 1]# CFADS - Causal Forensic Anomaly Detection System
 
-[![IEEE Standard](https://img.shields.io/badge/Standard-IEEE%20Academic-blue)](#)
-[![Data](https://img.shields.io/badge/Data-Real%20Public%20Data%20(2016--2026)-green)](#)
-
 
 
 
