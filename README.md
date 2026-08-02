@@ -27,6 +27,10 @@ Complete documentation is produced per stage following IEEE academic publication
 
 ### 2. Stage 6: Visualization Layer
 
+#### Figure 3: Cyber Incidents vs Food Loss (2016–2025)
+![Figure 3](photos/Fig3_Cyber_vs_Loss.png)
+*Figure 3. Dual-axis plot contrasting annual cyber incidents targeting the food sector (light blue bars) against global fruit and vegetable (F&V) loss percentages (red line). Shows an exponential rise in cyber incidents from 8 in 2016 to 265 in 2025 alongside persistent systemic food loss elevated between 23.2% and 25.8%.*
+
 
 ---
 
